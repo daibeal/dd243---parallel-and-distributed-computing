@@ -8,7 +8,7 @@ You will use many of the skills learned in the first 2/3 of the course to implem
 
 1. Generating Population
 
-Skeleton code and bug-free LockFreeSkipList: https://github.com/HAKarlsson/pardis-lab-3 Links to an external site.. Book code is buggyFinish the UniformPopulation and NormalPopulation classes, the first class should generate integers chosen uniformly at random and the second should use a normal distribution with a suitably chosen mean and variance, to ensure that the mean is distinct but all points have a "reasonable" minimum probability of getting sampled. Use the supplied test to verify that the two populations have roughly the expected means and variances.
+Skeleton code and bug-free LockFreeSkipList: [https://github.com/HAKarlsson/pardis-lab-3](https://github.com/HAKarlsson/pardis-lab-3). Book code is buggy. Finish the UniformPopulation and NormalPopulation classes, the first class should generate integers chosen uniformly at random and the second should use a normal distribution with a suitably chosen mean and variance, to ensure that the mean is distinct but all points have a "reasonable" minimum probability of getting sampled. Use the supplied test to verify that the two populations have roughly the expected means and variances.
 
 Devise a little program that will populate your skiplist using the uniform or normal populations with 10^7 integers of range 0-10^7 (in the first instance, later we will vary this range).
 
