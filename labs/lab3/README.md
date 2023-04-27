@@ -1,4 +1,4 @@
-# Introduction
+# Lab 3 - Lock-free skiplist
 
 The purpose of the lab is to have you explore a fairly advanced lock-free concurrent data structure in terms of performance and scalability, and to devise methods to instrument and test your implementation for correctness.
 
