@@ -10,9 +10,9 @@ This course is part of the Master Erasmus Courses offered by the [KTH Royal Inst
 
 ## Labs
 
-| Lab         |      
+| Lab         | 
 |--------------|
-| [Lab 1, Java Concurrency 101]() | 
+| [Lab 1, Java Concurrency 101]() |
 |[Lab 2 More Java Concurrency]()      | 
 | [Lab 3, lock-free concurrent skiplist]()     |
 
@@ -40,3 +40,20 @@ This course is part of the Master Erasmus Courses offered by the [KTH Royal Inst
 |--------------|
 | [Seminar 1]() |
 | [Seminar 2]() |
+
+# Author
+
+- [Andrés Aldaz](https://www.daibeal.me)
+
+# License
+
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+
+# Acknowledgments
+
+- [KTH Royal Institute of Technology](https://www.kth.se/en)
+- [KTH School of Electrical Engineering and Computer Science](https://www.kth.se/en/eecs)
+### Professors
+- [Matds Dam](https://www.kth.se/profile/mfd/)
+- [Henrik Karlsson](https://www.kth.se/profile/henrik10/)
+- [Karl Palmskog](https://www.kth.se/profile/palmskog)
