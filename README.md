@@ -12,27 +12,27 @@ This course is part of the Master Erasmus Courses offered by the [KTH Royal Inst
 
 | Lab         | 
 |--------------|
-| [Lab 1, Java Concurrency 101]() |
-|[Lab 2 More Java Concurrency]()      | 
-| [Lab 3, lock-free concurrent skiplist]()     |
+| [Lab 1, Java Concurrency 101](/labs/lab1/) |
+|[Lab 2 More Java Concurrency](/labs/lab2/)      | 
+| [Lab 3, lock-free concurrent skiplist](/labs/lab3/)     |
 
 ## Assignments
 
 |     Excercises     |      
 |--------------|
-| [Excercise 1]() | 
-|[Excercise 2]()      |
-| [Excercise 3]()     |
-| [Excercise 4]()     |
+| [Excercise 1](/assignments/ex1.pdf) | 
+|[Excercise 2](/assignments/ex2.pdf)      |
+| [Excercise 3](/assignments/ex3.pdf)     |
+| [Excercise 4](/assignments/ex4.pdf)     |
 | [Excercise 5]()     |
 | [Excercise 6]()     |
 | [Excercise 7]()     |
 | [Excercise 8]()     |
 | [Excercise 9]()     |
-| [Excercise 10]()     |
-| [Excercise 11]()     |
-| [Excercise 12]()     |
-| [Excercise 13]()     |
+| [Excercise 10](/assignments/)     |
+| [Excercise 11](/assignments/ex11.pdf)     |
+| [Excercise 12](/assignments/ex12.pdf)     |
+| [Excercise 13](/assignments/ex13.pdf)     |
 | [Excercise 14]()     |
 
 ## Seminars
