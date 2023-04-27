@@ -53,7 +53,7 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 
 - [KTH Royal Institute of Technology](https://www.kth.se/en)
 - [KTH School of Electrical Engineering and Computer Science](https://www.kth.se/en/eecs)
-### Professors
-- [Matds Dam](https://www.kth.se/profile/mfd/)
+### Instructors
+- [Mads Dam](https://www.kth.se/profile/mfd/)
 - [Henrik Karlsson](https://www.kth.se/profile/henrik10/)
 - [Karl Palmskog](https://www.kth.se/profile/palmskog)
